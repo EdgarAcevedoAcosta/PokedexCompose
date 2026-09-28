@@ -1,0 +1,4 @@
+C:\Users\edgar\Documents\PokedexCompose\app\src\main\java\acevedo\edgar\pokedexcompose\ui\theme\Color.kt
+C:\Users\edgar\Documents\PokedexCompose\app\src\main\java\acevedo\edgar\pokedexcompose\ui\theme\Theme.kt
+C:\Users\edgar\Documents\PokedexCompose\app\src\main\java\acevedo\edgar\pokedexcompose\MainActivity.kt
+C:\Users\edgar\Documents\PokedexCompose\app\src\main\java\acevedo\edgar\pokedexcompose\ui\theme\Type.kt
